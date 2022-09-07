@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #f2f2f2;
+    padding: 10px 20px;
+    box-shadow: 2px 1px 10px 0px #b9b6b6;
+}
+
+.logo {
+    padding: 0 10px;
+}
+
+.nav {
+
+}
+
+.nav__list {
+    list-style: none;
+    display: flex;
+    margin: 0;
+}
+
+.nav__item {
+    padding: 10px;
+}
+
+.nav__link {
+    font-weight: 500;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+}

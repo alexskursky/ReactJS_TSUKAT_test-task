@@ -1,0 +1,14 @@
+.button {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    background: #e7dedd;
+    border: none;
+    transition: 0.3s;
+    font-weight: 700;
+}
+
+.button:hover {
+    background: #50bbc7;
+
+    cursor: pointer;
+}

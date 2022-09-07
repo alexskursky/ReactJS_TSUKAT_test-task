@@ -1,0 +1,23 @@
+.tasks {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+
+}
+
+.tasks ul {
+    list-style: none;
+}
+
+.tasks li {
+    background: #f2f2f2;
+    padding: 40px 20px;
+    margin-top: 1rem;
+    box-shadow: 2px 1px 10px 0px #b9b6b6;
+}
+
+@media screen and (max-width: 600px){
+    .tasks {
+        width: 90%;
+    }
+}
